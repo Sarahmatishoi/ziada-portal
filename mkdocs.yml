@@ -1,0 +1,7 @@
+site_name: Ziada Portal Journey
+nav:
+  - Login: index.md
+  - Users: use.md
+  - Services: serv.md
+  - Promo Codes: promo.md
+theme: readthedocs
